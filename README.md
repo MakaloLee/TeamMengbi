@@ -15,6 +15,8 @@
 
 - gluon教程
 
+  http://zh.gluon.ai/
+
 - numpy、scipy官方文档
 
   https://docs.scipy.org/doc/
