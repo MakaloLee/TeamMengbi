@@ -11,6 +11,23 @@
 - 李翔：Nasnet
 - 李嘉恒：Resnet
 
+## 参考资料
+
+- gluon教程
+
+- numpy、scipy官方文档
+
+  https://docs.scipy.org/doc/
+
+- pandas官方文档
+
+  http://pandas.pydata.org/pandas-docs/stable/
+
+## 环境搭建
+
+- anaconda3
+- maxnet、gluon
+
 ## 项目更新
 
 - xxxx-xx-xx(日期)：v1
